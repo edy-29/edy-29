@@ -1,4 +1,4 @@
-## Hola! 👋
+## Hola, mi nombre es Edgardo, (aunque prefiero Ed o Edy!) 👋
 
 <!--
 **edy-29/edy-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -10,7 +10,7 @@
 - He desarrollado habilidades en Python, SQL, Machine Learning, Power BI, Tableau, Matplotlib, Pandas, Numpy
 
 
-[![My Skills](https://skillicons.dev/icons?i=discord,github,linkedin,powershell,sklearn,vscode,js,html,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,discord,github,linkedin,powershell,sklearn,vscode,html)](https://skillicons.dev)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
 <br><br>
