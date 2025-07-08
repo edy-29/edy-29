@@ -11,7 +11,7 @@
 - Estoy ansioso por demostrar mis habilidades y aptitudes en este nuevo campo!
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,discord,github,linkedin,powershell,sklearn,vscode,html)](https://skillicons.dev)(www.linkedin.com/in/edgardo-germán-90738131b)
+[![My Skills](https://skillicons.dev/icons?i=py,discord,github,linkedin,powershell,sklearn,vscode,html)](https://skillicons.dev)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
 <br><br>
